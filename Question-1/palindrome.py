@@ -6,7 +6,7 @@ def is_palindrome(s):
     return s == s[::-1]
 
 
-# Example usage
+# Example usage calling the function
 word = input("Enter a word or phrase: ")
 if is_palindrome(word):
     print(f"{word} is a palindrome.")
