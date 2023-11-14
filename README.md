@@ -10,6 +10,8 @@ This Repository is having the assignment.
 1) Making changes on same file to make file conflict.
 2) Resolving the merge conflict by using Rebase.
 * Question-4:
-1) Perform cherry-pick
+1) Perform cherry-pick.
 * Question-5:
-1) Reset and Revert to redo the commits.
+1) Reset and Revert to redo the commits.  
+
+**Note** : Contains all the git Assignment
